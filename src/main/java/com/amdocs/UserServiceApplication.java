@@ -23,6 +23,8 @@ public class UserServiceApplication {
 	/*
 	 * Below Rest template method is used for communicating with other ms with Rest
 	 * Template
+	 *
+	 * sss
 	 */
 	@Bean
 	@LoadBalanced
